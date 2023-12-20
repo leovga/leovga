@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @leovga or Eleftherios Vganges
-- 👀 I’m interested in learning more about coding B^ )
-- 🌱 I’m currently studying Comp Sci at MSU
+- 👋 Hi, I’m @leovga or Leo Vganges
+- 👀 I’m interested in learning more about graphics and programming games!
+- 🌱 I’m a recent Graduate
 - 📫 You can reach me at lefteri.vganges@gmail.com
 
 <!---
